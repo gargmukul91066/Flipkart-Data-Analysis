@@ -1,4 +1,4 @@
-# 📊 Flipkart-Data-Analysis
+# 📊 Flipkart Customer Satisfaction Analysis Using Python
 
 **Project Type**: Data Analysis, EDA, Visualization  
 **Tools Used**: Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn  
