@@ -94,7 +94,7 @@ This project demonstrates how data analytics can unlock key insights from custom
 
 ## 📎 GitHub Link
 
-👉 [View the full project here](#) *(https://github.com/gargmukul91066/Flipkart-Data-Analysis)*
+👉 [View the full project here](https://github.com/gargmukul91066/Flipkart-Data-Analysis)
 
 ---
 
