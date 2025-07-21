@@ -45,7 +45,7 @@ In a competitive e-commerce landscape, understanding customer satisfaction is cr
 
 ### 🧪 Statistical Testing
 - Applied IQR-based outlier detection.
-- Considered Chi-square and correlation analysis to validate data relationships.
+- Considered correlation analysis to validate data relationships.
 
 ### ⚖️ Handling Class Imbalance
 - Used **RandomOverSampler** to balance CSAT score distribution.
@@ -85,7 +85,7 @@ This project demonstrates how data analytics can unlock key insights from custom
 
 ---
 
-## 📌 Future Work
+## 🚀 Future Work
 - Integrate real-time dashboard with Streamlit or Power BI.
 - Deep dive into sentiment analysis using NLP.
 - Deploy automated alert system for low CSAT detection.
@@ -94,5 +94,11 @@ This project demonstrates how data analytics can unlock key insights from custom
 
 ## 📎 GitHub Link
 
-👉 [View the full project here](#) *(Add your actual link)*
+👉 [View the full project here](#) *(https://github.com/gargmukul91066/Flipkart-Data-Analysis)*
+
+---
+
+## ✍️ Made By
+
+**Mukul Garg**  
 
